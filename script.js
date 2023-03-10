@@ -6,6 +6,7 @@ const questions = [
     b: "Coding Style Sheets",
     c: "Cascading Simple Sheets",
     d: "Cars SUVs & Sailboats",
+	c: "Something else",
     correct: "a",
   },
   {
@@ -14,6 +15,7 @@ const questions = [
     b: "2021",
     c: "2022",
     d: "2023",
+	e: "2007",
     correct: "b",
   },
   {
@@ -22,6 +24,7 @@ const questions = [
     b: "Bosnia and Herzegovina Futures Foundation",
     c: "Bosnia and Herzegovina Factory Foundation",
     d: "none of the above",
+	e:"Bosnia and Herzegovina Funny Foundation",
     correct: "b",
   },
 ];
